@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Day5</string>
+    <string name="nama_user">Nama Pembeli</string>
+    <string name="Barang_Tersedia">Barang yang Tersedia</string>
+    <string name="Kode_barang">Kode Barang</string>
+    <string name="Kode_barang1">Kode Barang :</string>
+    <string name="Jumlah_barang">Jumlah Barang</string>
+    <string name="Jumlah_barang1">Jumlah Barang :</string>
+    <string name="Member1">Emas (Diskon 10%)</string>
+    <string name="Member2">Perak (Diskon 5%)</string>
+    <string name="Member3">Biasa (Diskon 2%)</string>
+    <string name="Proses">Proses</string>
+    <string name="Greeting">Selamat Datang,</string>
+    <string name="Member_tipe">Tipe Member :</string>
+    <string name="Member_diskon">Diskon Member :</string>
+    <string name="Transaksi_hari">Transaksi Hari Ini :</string>
+    <string name="Nama_barang">Nama Barang :</string>
+    <string name="Harga">Harga Barang :</string>
+    <string name="Harga_diskon">Diskon Harga :</string>
+    <string name="Total_harga">Total Harga :</string>
+    <string name="total_bayar">Total Pembayaran :</string>
+    <string name="penutup">Terimakasih Telah Belanja di sini :)</string>
+</resources>

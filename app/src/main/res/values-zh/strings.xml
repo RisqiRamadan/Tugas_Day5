@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Day5</string>
+    <string name="nama_user">" 买家姓名"</string>
+    <string name="Barang_Tersedia">" 可用项目"</string>
+    <string name="Kode_barang">" 项目代码"</string>
+    <string name="Kode_barang1">" 项目代码 ："</string>
+    <string name="Jumlah_barang">" 货物数量"</string>
+    <string name="Jumlah_barang1">" 货物数量："</string>
+    <string name="Member1">" 黄金（10% 折扣）"</string>
+    <string name="Member2">银牌（5% 折扣）</string>
+    <string name="Member3">常规（2% 折扣）</string>
+    <string name="Proses">" 过程"</string>
+    <string name="Greeting">" 欢迎,"</string>
+    <string name="Member_tipe">会员类型：</string>
+    <string name="Member_diskon">" 会员折扣："</string>
+    <string name="Transaksi_hari">今日交易：</string>
+    <string name="Nama_barang">" 货物名称："</string>
+    <string name="Harga">" 商品价格："</string>
+    <string name="Harga_diskon">" 折扣价："</string>
+    <string name="Total_harga">" 总价："</string>
+    <string name="total_bayar">" 所有付款"</string>
+    <string name="penutup">感谢您在这里购物:)</string>
+</resources>

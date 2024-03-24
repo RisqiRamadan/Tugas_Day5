@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Tugas Day5</string>
+    <string name="nama_user">Buyers Name</string>
+    <string name="Masukkan_name" translatable="false">Input the Buyers Name</string>
+    <string name="Barang_Tersedia">Items Available</string>
+    <string name="Kode_barang">Item Code</string>
+    <string name="Kode_barang1">Item Code : </string>
+    <string name="Input_kode" translatable="false">Input the Item Code</string>
+    <string name="Jumlah_barang">Number of Item</string>
+    <string name="Jumlah_barang1">Number of Item : </string>
+    <string name="Input_jumlah" translatable="false">Input the Number of Items</string>
+    <string name="Member1">Gold (10% discount)</string>
+    <string name="Member2">Silver (5% discount)</string>
+    <string name="Member3">Reguler (2% discount)</string>
+    <string name="Proses">Process</string>
+    <string name="Greeting">Welcome , </string>
+    <string name="Member_tipe">Member Type : </string>
+    <string name="Member_diskon">Member Discount : </string>
+    <string name="Transaksi_hari">Today Transaction : </string>
+    <string name="Nama_barang">Item Name : </string>
+    <string name="Harga">Item Price : </string>
+    <string name="Harga_diskon">Price Discount : </string>
+    <string name="Total_harga">Total Price : </string>
+    <string name="total_bayar">Payment Amount : </string>
+    <string name="penutup">Thank you for shopping here :) </string>
+</resources>

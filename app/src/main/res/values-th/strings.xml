@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Day5</string>
+    <string name="nama_user">ชื่อผู้ซื้อ</string>
+    <string name="Barang_Tersedia">รายการที่มีอยู่</string>
+    <string name="Kode_barang">รหัสรายการ</string>
+    <string name="Kode_barang1">รหัสสินค้า :</string>
+    <string name="Jumlah_barang">"จำนวนสินค้า "</string>
+    <string name="Jumlah_barang1">จำนวนสินค้า :</string>
+    <string name="Member1">ทอง (ส่วนลด 10%)</string>
+    <string name="Member2">เงิน (ส่วนลด 5%)</string>
+    <string name="Member3">" ปกติ (ส่วนลด 2%)"</string>
+    <string name="Proses">" กระบวนการ"</string>
+    <string name="Greeting">ยินดีต้อนรับ,</string>
+    <string name="Member_tipe">" ประเภทสมาชิก:"</string>
+    <string name="Member_diskon">ส่วนลดสมาชิก:</string>
+    <string name="Transaksi_hari">" ธุรกรรมของวันนี้:"</string>
+    <string name="Nama_barang">" ชื่อสินค้า :"</string>
+    <string name="Harga">" ราคาสินค้า :"</string>
+    <string name="Harga_diskon">" ลดราคา:"</string>
+    <string name="Total_harga">" ราคารวม :"</string>
+    <string name="total_bayar">การชำระเงินทั้งหมด:</string>
+    <string name="penutup">ขอบคุณสำหรับการช้อปปิ้งที่นี่ :)</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Day5</string>
+    <string name="nama_user">" 購入者の名前"</string>
+    <string name="Barang_Tersedia">"利用可能なアイテム "</string>
+    <string name="Kode_barang">アイテムコード</string>
+    <string name="Kode_barang1">アイテムコード ：</string>
+    <string name="Jumlah_barang">商品数量</string>
+    <string name="Jumlah_barang1">商品数量：</string>
+    <string name="Member1">" ゴールド (10% 割引)"</string>
+    <string name="Member2">" シルバー (5% 割引)"</string>
+    <string name="Member3">通常（2％割引）</string>
+    <string name="Proses">" プロセス"</string>
+    <string name="Greeting">" いらっしゃいませ,"</string>
+    <string name="Member_tipe">メンバータイプ:</string>
+    <string name="Member_diskon">会員割引：</string>
+    <string name="Transaksi_hari">今日の取引:</string>
+    <string name="Nama_barang">" 商品名："</string>
+    <string name="Harga">" 商品の価格："</string>
+    <string name="Harga_diskon">割引価格:</string>
+    <string name="Total_harga">" 合計金額 ："</string>
+    <string name="total_bayar">すべての支払い</string>
+    <string name="penutup">" ここでお買い物していただきありがとうございます:)"</string>
+</resources>
